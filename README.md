@@ -6,6 +6,9 @@ Bike Inventory App
 npm install -g gulp
 ```
 ```
+cd PROJECT_DIRECTORY/ && npm install
+```
+```
 gulp serve
 ```
 
